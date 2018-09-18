@@ -19,6 +19,7 @@ The chip is connected as follows:
 I used a Nucleo board with this microcontroller, and on this board, the UART interface is connected as follows:
 | STM32F411 PIN| UART PIN 
 
+| STM32F411 PIN| UART PIN 
 | :----------- | ----: | 
 | PA10         | RX    |    
 | PA9          | TX    | 
